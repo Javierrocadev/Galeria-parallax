@@ -68,8 +68,6 @@ html {
   z-index: 2;
   transform: rotate(-15deg) scale(1.45);
   box-shadow: rgb(0 0 0 / 0.75) 0 0 0 10000px;
-  display: flex;
-  justify-content: center;
 }
 .description {
   position: absolute;
